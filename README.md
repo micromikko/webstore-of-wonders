@@ -5,17 +5,19 @@ Feel free to try out its features, even changing user passwords, creating new us
 
 http://users.metropolia.fi/~mikkompe/wow/loginPage.php
 
-userID:		11
-accessLevel:		1 (admin)
-username:		owner
-password:		iDrinkWhisky
-
-userID:		12
-accessLevel:		3 (employee)
-username:		worker
-password:		iDrinkWine
-	
-userID:		13
-accessLevel:		5 (customer)
-username:		shopper
-password:		iDrinkBeer
+userID:		11   
+accessLevel:		1 (admin)   
+username:		owner   
+password:		iDrinkWhisky   
+   
+      
+userID:		12   
+accessLevel:		3 (employee)   
+username:		worker   
+password:		iDrinkWine   
+	   
+	      
+userID:		13   
+accessLevel:		5 (customer)   
+username:		shopper   
+password:		iDrinkBeer   
