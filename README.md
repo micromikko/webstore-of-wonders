@@ -21,3 +21,6 @@ userID:		13
 accessLevel:		5 (customer)   
 username:		shopper   
 password:		iDrinkBeer   
+
+The basic structure of the site is demonstrated here:
+http://users.metropolia.fi/~mikkompe/wow_flowchart.html
